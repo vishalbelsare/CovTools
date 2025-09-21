@@ -15,7 +15,7 @@
 #' }
 #'
 #'
-#' @docType package
+#' @noRd
 #' @name package-CovTools
 #' @aliases CovTools-package
 #' @import shapes
@@ -35,7 +35,7 @@
 #' @importFrom foreach "%dopar%" foreach registerDoSEQ
 #' @importFrom parallel detectCores stopCluster makeCluster
 #' @importFrom doParallel registerDoParallel
-#' @useDynLib CovTools
+#' @useDynLib CovTools, .registration=TRUE
 NULL
 
 

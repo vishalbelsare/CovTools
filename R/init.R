@@ -16,7 +16,7 @@
   packageStartupMessage("** ")
   packageStartupMessage("** Version    : ",this.version,"      (",this.year,")",sep="")
   packageStartupMessage("** Authors    : Kyoungjae Lee, Lizhen Lin, and Kisung You")
-  packageStartupMessage("** Maintainer : Kisung You (kisungyou@outlook.com)")
+  packageStartupMessage("** Maintainer : Kisung You (kisung.you@outlook.com)")
   packageStartupMessage("**")
   packageStartupMessage("** Please share any bugs or suggestions to the maintainer.")
   packageStartupMessage("**--------------------------------------------------------**")
